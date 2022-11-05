@@ -3,9 +3,9 @@
 # Bienvenida
 
 > _Make software development less boring and more fun!_ <br> 
-> &mdash; AAAIMX Software Division
+> &mdash; AAAIMX Machine Learning Division
 
-Hola, **bienvenid@** a **AAAIMX Software Division**.
+Hola, **bienvenid@** a **AAAIMX Machine Learning Division**.
 Nuestro objetivo es impulsar el desarrollo del aprendizaje, proyectos o actividades relacionadas al **desarrollo de software** y **programación** con el fin de resolver problemáticas utilizando estas tecnologías.
 
 En la division de software nos enfocamos en impulsar la programación, el pensamiento lógico-algoritmico así como el desarrollo de nuevas tecnologías con el fin de motivar profesionistas y emprendedores en TI.
