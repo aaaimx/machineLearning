@@ -1,6 +1,0 @@
----
-sidebar: auto
----
-
-# En construcción
-
