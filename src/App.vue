@@ -35,7 +35,7 @@
           <div class="col-lg-6 col-xl-5">
               <div class="text-container">
                   <h1 class="h1-large">AAAIMX</h1>
-                  <p class="p-large">Formamos parte del Capítulo Estudiantil AAAIMX para el cual colaboramos impartiendo cursos, talleres, pláticas, conferencias, desarrollo de algoritmos de Inteligencia Artificial</p>
+                  <p class="p-large">Formamos parte del Capítulo Estudiantil AAAIMX para el cual colaboramos impartiendo cursos, talleres, pláticas, conferencias, desarrollo de algoritmos e investigación de Inteligencia Artificial</p>
                   <a class="btn-solid-lg" href="#ABOUT">ABOUT US</a>
               </div>
           </div> 
