@@ -36,9 +36,7 @@
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
                         <h1 class="h1-large">AAAIMX</h1>
-                        <p class="p-large">Formamos parte del Capítulo Estudiantil AAAIMX para el cual colaboramos
-                            impartiendo cursos, talleres, pláticas, conferencias, desarrollo de algoritmos e
-                            investigación de Inteligencia Artificial</p>
+                        <p class="p-large">Formamos parte del Capítulo Estudiantil AAAIMX para el cual colaboramos impartiendo cursos, talleres, pláticas, conferencias, desarrollo de algoritmos e investigación de Inteligencia Artificial</p>
                         <a class="btn-solid-lg" href="#ABOUT">ABOUT US</a>
                     </div>
                 </div>
@@ -59,44 +57,37 @@
             </div>
             <div class="row">
                 <div class="col-lg-12">
-
-
                     <div class="card">
-                        <div class="card-icon">
-                            <span class="fas fa-headphones-alt"></span>
-                        </div>
-                        <div class="card-body">
-                            <h5 class="card-title">Analyse your product</h5>
-                            <p>Et blandit nisl libero at arcu. Donec ac lectus sed tellus mollis viverra. Nullam
-                                pharetra ante at nunc elementum</p>
-                            <a class="read-more no-line" href="#">Learn more <span
-                                    class="fas fa-long-arrow-alt-right"></span></a>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <div class="card-icon red">
-                            <span class="far fa-clipboard"></span>
-                        </div>
-                        <div class="card-body">
-                            <h5 class="card-title">Evaluate opportunities</h5>
-                            <p>Vulputate nibh feugiat. Morbi pellent diam nec libero lacinia, sed ultrices velit
-                                scelerisque. Nunc placerat justo sem</p>
-                            <a class="read-more no-line" href="#">Learn more <span
-                                    class="fas fa-long-arrow-alt-right"></span></a>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <div class="card-icon green">
+                        <!-- <div class="card-icon green">
                             <span class="far fa-comments"></span>
-                        </div>
+                        </div> -->
                         <div class="card-body">
-                            <h5 class="card-title">Find the influencers</h5>
-                            <p>Ety suscipit metus sollicitudin euqu isq imperdiet nibh nec magna tincidunt, nec pala
-                                vehicula neque sodales verum</p>
-                            <a class="read-more no-line" href="#">Learn more <span
-                                    class="fas fa-long-arrow-alt-right"></span></a>
+                            <h5 class="card-title">Visión</h5>
+                            <p>Aportar al progreso de la Inteligencia Artificial</p>
+                            <a class="read-more no-line" href="#">Learn more <span class="fas fa-long-arrow-alt-right"></span></a>
+                        </div>
+                    </div>
+
+
+                    <div class="card">
+                        <!-- <div class="card-icon">
+                            <span class="fa-clipboard"></span>
+                        </div> -->
+                        <div class="card-body">
+                            <h5 class="card-title">¿Qué hacemos?</h5>
+                            <p>Formamos parte de la AAAIMX en la cual realizamos talleres, conferencias e investigación de Inteligencia Artificial</p>
+                            <a class="read-more no-line" href="#">Learn more <span class="fas fa-long-arrow-alt-right"></span></a>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <!-- <div class="card-icon red">
+                            <span class="far fa-clipboard"></span>
+                        </div> -->
+                        <div class="card-body">
+                            <h5 class="card-title">Proyectos</h5>
+                            <p>Stable Diffution</p>
+                            <a class="read-more no-line" href="#">Learn more <span class="fas fa-long-arrow-alt-right"></span></a>
                         </div>
                     </div>
 
@@ -114,12 +105,11 @@
                 </div>
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
-                        <div class="section-title">WHAT WE DO</div>
-                        <h2>The right influencer can boost your conversion</h2>
-                        <p>Etiam tempus condimentum congue. In sit amet nisi eget massa condimentum lobortis eget ac
-                            eros. In hac habitasse platea dictumst. Aenean molestie mauris eget sapien sagittis, a
-                            bibendum magna tincidunt</p>
-                        <a class="btn-solid-reg" href="#contact">Get quote</a>
+                        <div class="section-title">Pláticas y conferencias</div>
+                        <h2>DataClub</h2>
+                        <p>Impartimos cursos constantemente debido al gran crecimiento de datos</p>
+                        <a class="btn-solid-reg" href="#contact">Colabora con nosotros</a>
+                        <p>Es gratis</p>
                     </div>
                 </div>
             </div>
@@ -132,9 +122,7 @@
                     <div class="text-container">
                         <div class="section-title">ABOUT US</div>
                         <h2>We have ten years experience in marketing</h2>
-                        <p>Etiam tempus condimentum congue. In sit amet nisi eget massa condimentum lobortis eget ac
-                            eros. In hac habitasse platea dictumst. Aenean molestie mauris eget sapien sagittis, a
-                            bibendum magna tincidunt</p>
+                        <p>Impartimos cursos constantemente debido al gran crecimiento de datos</p>
                         <a class="btn-outline-reg" href="#">RESOURCES</a>
                     </div>
                 </div>
@@ -150,7 +138,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
-                    <h2 class="h2-heading">Online service features</h2>
+                    <h2 class="h2-heading">Poner la competencia e pacman</h2>
                     <p class="p-heading">Suspendisse vitae enim arcu. Aliquam convallis risus a felis blandit, at mollis
                         nisi bibendum. Aliquam nec purus at ex blandit posuere nec a odio. Proin lacinia dolor justo</p>
                 </div>
