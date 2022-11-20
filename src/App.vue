@@ -15,7 +15,7 @@
                         <a class="nav-link" href="#ABOUT">ABOUT</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#RESOURCES">RRESOURCES</a>
+                        <a class="nav-link" href="#RESOURCES">RESOURCES</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#features">PROJECTS</a>
