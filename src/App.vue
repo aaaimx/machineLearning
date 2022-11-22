@@ -139,7 +139,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <h2 class="h2-heading">Poner la competencia e pacman</h2>
-                    <p class="p-heading">Suspendisse vitae enim arcu. Aliquam convallis risus a felis blandit, at mollis
+                    <p class="p-heading">Elias pon algo aquí por fas Suspendisse vitae enim arcu. Aliquam convallis risus a felis blandit, at mollis
                         nisi bibendum. Aliquam nec purus at ex blandit posuere nec a odio. Proin lacinia dolor justo</p>
                 </div>
             </div>
